@@ -1,0 +1,15 @@
+{
+  "id": 122409409283,
+  "powers": ["Rainfall", "Super Speed Plant Growth"],
+  "outfit": "Green Catsuit",
+  "alias": "The Green Machine",
+  "mission": "A Greener Earth",
+  "cape": true,
+  "weaknesses": ["Cloud Cover", "Hurricane", "Hailstorms"],
+  "image": "https://comps.canstockphoto.com/ecological-superhero-woman-in-green-clipart-vector_csp49296855.jpg",
+  "enemies": 1,
+  "sidekick": {
+    "name": "SunChild",
+    "cape": false
+  }
+}
